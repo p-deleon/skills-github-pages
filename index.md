@@ -1,1 +1,5 @@
-# this is my first blog
+
+---
+tite:prado
+date:2024/12/12
+---
