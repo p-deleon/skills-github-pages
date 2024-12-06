@@ -1,5 +1,5 @@
 
 ---
-tite:"prado"
-date:2024-12-12
+tite: "prado"
+date: 2024-12-12
 ---
