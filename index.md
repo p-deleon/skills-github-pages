@@ -1,5 +1,5 @@
-
----
-title: "prado"
-date: 2024-12-12
----
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
